@@ -209,19 +209,17 @@ lord-icon {
 
 .hiddenS {
   position: absolute;
-  left: 132%; /* Initially position the text off-screen to the left */
+  left: 142%; /* Initially position the text off-screen to the left */
   height: 200px;
-
   width: 60vw;
-  top: 230px;
+  top: 170px;
   transform: translateX(-50%);
-
   transition: left 0.7s ease;
 }
 
 .nav2:hover .hiddenS {
   opacity: 1;
-  transform: translateX(-170%);
+  transform: translateX(-185%);
   transition: transform 0.7s ease;
 }
 .hidden1 {
