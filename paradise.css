@@ -268,7 +268,7 @@ lord-icon {
 .about:hover{
   
 backdrop-filter: blur(10px);
- height: 305px;
+ height: 315px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -283,7 +283,7 @@ backdrop-filter: blur(10px);
   position: relative;
   top: -50px;
   color: #e6e6e6;
-  left: 32%;
+  left: 40%;
   z-index: 1;
   font-size: 30px;
 
@@ -425,6 +425,8 @@ position: relative;
 .hidden2-2 {
   position: relative;
   top: 250px;
+  width: 900px;
+  left: 30px;
   padding: 20px;
   color: rgba(223, 233, 233, 0.89);
   font-size: 22px;
